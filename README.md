@@ -283,7 +283,7 @@
 > 회원가입 기능
 - 모든 입력이 정상적이어야만 로그인이 가능하다.
 - 반려동물과 만난날짜는 오늘을 포함한 이전만 가능하다.
-- 비밀번호 로직에 맞지 않으면 회원가입이 불가능하다.
+- 입력값들이 로직에 맞지 않으면 회원가입이 불가능하다.
 <div>
 <img height="450" alt="image" src="https://user-images.githubusercontent.com/54923245/205440564-d27ff286-f55b-418a-9925-78f6b5b03737.png">
 <img height="450" alt="image" src="https://user-images.githubusercontent.com/54923245/205440584-6fb07ff6-7698-40ab-86e0-69a6ed77e8c3.png">
