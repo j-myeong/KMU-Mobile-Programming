@@ -287,7 +287,7 @@
 <div>
 <img height="450" alt="image" src="https://user-images.githubusercontent.com/54923245/205440564-d27ff286-f55b-418a-9925-78f6b5b03737.png">
 <img height="450" alt="image" src="https://user-images.githubusercontent.com/54923245/205440584-6fb07ff6-7698-40ab-86e0-69a6ed77e8c3.png">
-<img height="450" alt="image" src="https://user-images.githubusercontent.com/54923245/205440658-bf150420-63bc-4b4a-a271-dd8dfbf980ca.png">
+<img height="450" alt="image" src="https://user-images.githubusercontent.com/54923245/205441359-767f5596-8321-4c73-a3e8-25cb872f8634.png">
 </div>
 	
 > 반려동물 타입 검색
