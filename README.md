@@ -324,11 +324,21 @@
 <img width="240" alt="image" src="https://user-images.githubusercontent.com/54923245/205440304-9e81dae4-cedd-441d-a05c-55cfb7db87a2.png">
 </div>
 
+> 알림 기능
+- 구독한 유저의 게시글 알림, 내 게시글의 댓글, 좋아요 알림을 받을 수 있다.
+<div>
+<div style="display:flex; flex-direction:column;">
+<img height="60" alt="image" src="https://user-images.githubusercontent.com/54923245/205839113-83d7a334-8d8d-4f69-8e6c-fdd5a63040fa.png">
+<img height="60" alt="image" src="https://user-images.githubusercontent.com/54923245/205839028-d1e8c071-5844-44e1-8cf7-dafd43519a7c.png">
+<img height="60" alt="image" src="https://user-images.githubusercontent.com/54923245/205839063-53340caf-58be-4119-8f79-6cea02ffdba5.png">
+</div>
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/54923245/205838903-f60ab51f-a0b8-4c39-8091-e2d543f1aecf.png">
+</div>
+
 > 로그아웃 기능
 - 유저가 로그아웃을 원할 시 한 번의 클릭 단계를 거친 후 다이얼로그를 한 번 더 띄운다.
 - 로그아웃 시 로그인 화면으로 이동하며 로그아웃 되었다는 메세지를 확인 할 수 있다. 
-	
-	
+		
 <div>
 <img width="240" alt="image" src="https://user-images.githubusercontent.com/54923245/205439884-632951c7-26de-4378-8fd6-7922d66dd71d.png">
 <img width="240" alt="image" src="https://user-images.githubusercontent.com/54923245/205439926-ad2e42be-8bd0-415a-806d-bc4b716fab47.png">
