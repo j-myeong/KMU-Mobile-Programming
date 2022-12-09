@@ -27,6 +27,10 @@
 - [박정명](https://github.com/j-myeong)
 - [송재룡](https://github.com/ft-jasong)
 
+## 어플리케이션 IA
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/54923245/206694879-d02d2c36-17a1-47b2-a97d-30c5e16b938a.png">
+
+
 ## License
 - Apache License 2.0 by
 	- Android - platform - frameworks - support
